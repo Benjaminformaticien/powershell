@@ -1,2 +1,2 @@
-# powershell
-powershell scripts
+# Powershell
+mostly dumb scripts
